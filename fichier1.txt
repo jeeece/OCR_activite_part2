@@ -1,1 +1,4 @@
 Fichier 1
+====
+
+Ce fichier contiendra le nom de contributeurs
